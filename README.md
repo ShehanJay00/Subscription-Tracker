@@ -13,13 +13,12 @@ Built with scalability, security.
 
 ## 🔑 What This Project Offers
 
-- 🛡️ **Security First** – Strong protection against bots and abusive requests with **Arcjet**.  
-- 🗂️ **Robust Data Modeling** – Flexible schema design with **MongoDB & Mongoose** for managing users and subscriptions.  
-- 🔐 **Authentication Done Right** – Seamless **JWT-based auth** for account and subscription management.  
-- ⚡ **Centralized Error Handling** – Middleware-driven validation and error responses for a clean API flow.  
-- 📝 **Logging & Monitoring** – Integrated logs for debugging and performance insights.  
-- 📬 **Automated Workflows** – Smart email reminders and notifications powered by **Upstash**.  
-- 🏗️ **Clean Architecture** – Reusable, modular, and production-ready codebase.
+-  **Security First** – Strong protection against bots and abusive requests with **Arcjet**.  
+-  **Robust Data Modeling** – Flexible schema design with **MongoDB & Mongoose** for managing users and subscriptions.  
+-  **Authentication Done Right** – Seamless **JWT-based auth** for account and subscription management.  
+-  **Centralized Error Handling** – Middleware-driven validation and error responses for a clean API flow.  
+-  **Automated Workflows** – Smart email reminders and notifications powered by **Upstash**.  
+-  **Clean Architecture** – Reusable, modular, and production-ready codebase.
 
 ---
 
