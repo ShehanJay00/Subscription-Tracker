@@ -7,7 +7,7 @@
 # Subscription Management System
 
 A **production-grade subscription platform** designed to handle real users, real payments, and real-world business logic.  
-Built with scalability, security.
+Built with scalability and security.
 
 ---
 
